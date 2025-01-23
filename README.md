@@ -1,3 +1,3 @@
 # Amazon
-Amazon clone
+Amazon clone.
 Author-Yadav Aditi Tejbahadur
